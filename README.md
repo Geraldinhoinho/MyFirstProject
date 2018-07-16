@@ -1,2 +1,2 @@
 # MyFirstProject
-It's a test.
+I'm new at GitHub, and now, i'm testing all functions of it.
